@@ -7,7 +7,7 @@ lsi: false
 permalink: /:title
 
 title: "LC-LeetCode"
-description: "Leetcode cracking"
+description: "Discuss issues on coding interview"
 baseurl: ""
 url: "https://undertree93.github.com/lc-leetcode" # replace by your site's url
 github_username:  undertree93 # (your name)
