@@ -6,17 +6,16 @@ highlighter: rouge
 lsi: false
 permalink: /:title
 
-title: "Your Name"
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+title: "LC-LeetCode"
+description: "Leetcode cracking"
 baseurl: ""
-url: "http://himsel.me" # replace by your site's url
-twitter_username: your-name
-github_username:  lukas-h # (your name)
+url: "https://undertree93.github.com/lc-leetcode" # replace by your site's url
+github_username:  undertree93 # (your name)
 accent: "#f7f7e6" # accent color for blog column
 
-author: "Your Name"
-address: "Your Street, <br>Your City, Country"
-email: "your@email.com"
+author: "Undertree93"
+address: "Markham, Ontario, Canada"
+email: "undertree93@gmail.com"
 
 # google analytics tracking code, please change the value
 g_analytics: ""
